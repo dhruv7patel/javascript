@@ -29,3 +29,6 @@ let totalArr = arr7.reduce((acc,curr) => {
 console.log(evenArr);
 console.log(totalArr);
 
+
+console.log("First change done")
+
